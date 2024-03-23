@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PR_5</string>
+    <string name="fio">Введите ФИО студента:</string>
+    <string name="fio_2">ФИО студента</string>
+    <string name="dalee">Далее</string>
+    <string name="student">Студент:</string>
+    <string name="grup">Группа студента</string>
+    <string name="grup_2">Введите группу студента:</string>
+</resources>
